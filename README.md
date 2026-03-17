@@ -1,5 +1,7 @@
 # FAST Shooter 🚀
 
+> ⚠️ **Developer Note:** This is my first-ever game and was built as a school project. It is very much a learning experience, so expect rough edges, unoptimized code, and plenty of bugs!
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
 
@@ -7,7 +9,7 @@
 
 ## 🎮 Gameplay / Screenshots
 
-> **Note to Developer:** Put a high-quality, 60fps GIF of your gameplay right here. If people can't see the game moving, they won't bother building it. Below that, add 1-2 static screenshots.
+*(Insert a GIF or screenshots of your game here so people know what it looks like before looking at the code.)*
 
 ![Gameplay Demo](link_to_your_gif_here.gif)
 
@@ -17,32 +19,26 @@
     * 🟢 **Easy:** Slower enemy spawns, forgiving mechanics.
     * 🟡 **Medium:** Standard pacing, balanced challenge.
     * 🔴 **Hard:** Relentless enemy waves and faster projectiles.
-* **Hardware Accelerated:** Fully utilizes GPU rendering for smooth, tear-free framerates.
-* **Clean Architecture:** Written in modern C++ with a focus on performance and memory management.
+* **Precision Mouse Controls:** 100% mouse-driven ship navigation and combat for highly responsive gameplay.
+* **Hardware Accelerated:** Built to utilize GPU rendering for smooth framerates, even on lower-end integrated graphics.
 
-## ⌨️ Controls
+## 🖱️ Controls
 
-| Action | Keybinding |
+FAST Shooter is designed entirely around fluid, mouse-driven mechanics.
+
+| Action | Input |
 | :--- | :--- |
-| **Move Up** | `W` or `Up Arrow` |
-| **Move Down** | `S` or `Down Arrow` |
-| **Move Left** | `A` or `Left Arrow` |
-| **Move Right** | `D` or `Right Arrow` |
-| **Shoot** | `Spacebar` |
+| **Navigate Ship** | `Mouse Movement` |
+| **Fire Weapon** | `Left Mouse Button (LMB)` |
 | **Pause Game** | `ESC` |
 
 ## 🛠️ Dependencies
 
-To build and run this game, you will need the following installed on your system:
+If you want to compile this code yourself, you will need a C++ compiler supporting C++17 and the following libraries installed:
+* SFML 2.5+ *(Or whichever graphics library you used)*
 
-* **C++ Compiler:** GCC or Clang (Must support C++17 or higher)
-* **Build System:** CMake (v3.10+)
-* **Graphics Library:** SFML 2.5+ *(Update this if you used SDL2, Raylib, etc.)*
+## 🤝 Contributing
+Since this is a completed school project, active development has mostly wrapped up, but pull requests and code reviews are always welcome! 
 
-## 🚀 Building from Source
-
-### Linux (Arch/Rolling Release)
-
-1. Install the required dependencies and build tools:
-   ```bash
-   sudo pacman -S base-devel cmake sfml
+## 📝 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
