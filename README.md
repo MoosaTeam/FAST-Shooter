@@ -9,7 +9,8 @@
 
 ## 🎮 Gameplay / Screenshots
 
-*(Insert a GIF or screenshots of your game here so people know what it looks like before looking at the code.)*
+![Main Menu](docs/gameplay1.png)
+![Action Shot](docs/gameplay2.png)
 
 ![Gameplay Demo](link_to_your_gif_here.gif)
 
