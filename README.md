@@ -21,7 +21,6 @@
     * 🟡 **Medium:** Standard pacing, balanced challenge.
     * 🔴 **Hard:** Relentless enemy waves and faster projectiles.
 * **Precision Mouse Controls:** 100% mouse-driven ship navigation and combat for highly responsive gameplay.
-* **Hardware Accelerated:** Built to utilize GPU rendering for smooth framerates, even on lower-end integrated graphics.
 
 ## 🖱️ Controls
 
@@ -36,7 +35,7 @@ FAST Shooter is designed entirely around fluid, mouse-driven mechanics.
 ## 🛠️ Dependencies
 
 If you want to compile this code yourself, you will need a C++ compiler supporting C++17 and the following libraries installed:
-* SFML 2.5+ *(Or whichever graphics library you used)*
+* SFML 2 
 
 ## 🤝 Contributing
 Since this is a completed school project, active development has mostly wrapped up, but pull requests and code reviews are always welcome! 
