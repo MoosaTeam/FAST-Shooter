@@ -2,7 +2,6 @@
 
 > ⚠️ **Developer Note:** This is my first-ever game and was built as a school project. It is very much a learning experience, so expect rough edges, unoptimized code, and plenty of bugs!
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
 
 **FAST Shooter** is a fast-paced 2D space shooter built entirely in C++. Dodge enemies, manage your fire, and survive as long as possible. 
@@ -39,6 +38,3 @@ If you want to compile this code yourself, you will need a C++ compiler supporti
 
 ## 🤝 Contributing
 Since this is a completed school project, active development has mostly wrapped up, but pull requests and code reviews are always welcome! 
-
-## 📝 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
