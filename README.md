@@ -9,7 +9,7 @@
 
 ## 🎮 Gameplay / Screenshots
 
-![Main Menu](docs/gameplay1.png)
+![Main Menu](docs/gameplay.png)
 ![Action Shot](docs/gameplay2.png)
 
 ![Gameplay Demo](link_to_your_gif_here.gif)
