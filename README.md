@@ -39,9 +39,9 @@ If you want to compile this code yourself, you will need a C++ compiler supporti
 ## 👥 Development Team
 
 This game was built collaboratively during our 1st-semester Programming Fundamentals course by:
-* **[Your Name]** - *(Add a brief 3-word description of your role, e.g., Core Gameplay / Physics)*
-* **[Teammate 1 Name]** - *(e.g., UI / Menu Systems)*
-* **[Teammate 2 Name]** - *(e.g., Enemy AI / Assets)*
+* **Muhammad Moosa
+* **Sheikh Ahsan Omer
+* **Eman Jameel
 
 ## 🤝 Contributing
 Since this is a completed school project, active development has mostly wrapped up, but pull requests and code reviews are always welcome! 
